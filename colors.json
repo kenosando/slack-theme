@@ -1,10 +1,26 @@
 {
-	"columnBG" : "#0E1B30",
-  "menuBGHover" : "#2E3B50",
-  "activeItem" : "#C1763A",
-  "activeItemText" : "#000000",
-  "hoverItem" : "#2E3B50",
-  "textColor" : "#F0F0F0",
-  "activePresence" : "#557FCC",
-  "mentionBadge" : "#3A5BC7"
+	"oldSlackUI" : {
+		"columnBG" : "#0E1B30",
+		"menuBGHover" : "#2E3B50",
+		"activeItem" : "#C1763A",
+		"activeItemText" : "#000000",
+		"hoverItem" : "#2E3B50",
+		"textColor" : "#F0F0F0",
+		"activePresence" : "#557FCC",
+		"mentionBadge" : "#3A5BC7",
+		"topNavBG" : "#2E3B50",
+		"topNavText" : "#F0F0F0"
+	},
+	"newSlackUI" : {
+		"columnBG" : "#0E1B30",
+		"menuBGHover" : "#2E3B50",
+		"activeItem" : "#C1763A",
+		"activeItemText" : "#000000",
+		"hoverItem" : "#2E3B50",
+		"textColor" : "#F0F0F0",
+		"activePresence" : "#557FCC",
+		"mentionBadge" : "#3A5BC7",
+		"topNavBG" : "#2E3B50",
+		"topNavText" : "#F0F0F0"
+	}
 }
