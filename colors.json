@@ -1,7 +1,7 @@
 {
 	"newSlackUI" : {
 		"systemNavigation" : "#00163B",
-		"selectedItems" : "#FC7000",
+		"selectedItems" : "#EB8838",
 		"presenceIndication" : "#557FCC",
 		"notifications" : "#3A5BC7"
 	}
